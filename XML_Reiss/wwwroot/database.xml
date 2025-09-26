@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reisid id="1">
+	<reis id="1">
+		<sihtkoht>Barcelona</sihtkoht>
+		<transport>
+			<lennureis>AirBaltic</lennureis>
+			<rong>Renfe</rong>
+			<lennujaam>Barcelona El Prat</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Arts</hotell>
+		</majutus>
+		<ekskursioon>Sagrada Familia Tour</ekskursioon>
+		<hinnad>
+			<transport>250.00</transport>
+			<majutus>600.00</majutus>
+			<ekskursioon>80.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try seafood paella near the beach</erilineSoovitus>
+		<hinnang>4.7</hinnang>
+	</reis>
+
+	<reis id="2">
+		<sihtkoht>Paris</sihtkoht>
+		<transport>
+			<lennureis>Air France</lennureis>
+			<rong>TGV</rong>
+			<lennujaam>Charles de Gaulle</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="3">Ibis Paris</hotell>
+		</majutus>
+		<ekskursioon>Louvre Museum</ekskursioon>
+		<hinnad>
+			<transport>300.00</transport>
+			<majutus>400.00</majutus>
+			<ekskursioon>50.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Evening walk along the Seine</erilineSoovitus>
+		<hinnang>4.5</hinnang>
+	</reis>
+
+	<reis id="3">
+		<sihtkoht>Berlin</sihtkoht>
+		<transport>
+			<lennureis>Lufthansa</lennureis>
+			<rong>ICE</rong>
+			<lennujaam>Berlin Brandenburg</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Hilton Berlin</hotell>
+		</majutus>
+		<ekskursioon>Berlin Wall Tour</ekskursioon>
+		<hinnad>
+			<transport>200.00</transport>
+			<majutus>500.00</majutus>
+			<ekskursioon>40.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Visit Berlin nightlife clubs</erilineSoovitus>
+		<hinnang>4.3</hinnang>
+	</reis>
+
+	<reis id="4">
+		<sihtkoht>Rome</sihtkoht>
+		<transport>
+			<lennureis>Alitalia</lennureis>
+			<rong>Trenitalia</rong>
+			<lennujaam>Fiumicino</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Eden</hotell>
+		</majutus>
+		<ekskursioon>Colosseum Tour</ekskursioon>
+		<hinnad>
+			<transport>280.00</transport>
+			<majutus>550.00</majutus>
+			<ekskursioon>70.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Taste authentic Italian pizza</erilineSoovitus>
+		<hinnang>4.8</hinnang>
+	</reis>
+
+	<reis id="5">
+		<sihtkoht>London</sihtkoht>
+		<transport>
+			<lennureis>British Airways</lennureis>
+			<rong>Eurostar</rong>
+			<lennujaam>Heathrow</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">The Ritz</hotell>
+		</majutus>
+		<ekskursioon>London Eye Ride</ekskursioon>
+		<hinnad>
+			<transport>350.00</transport>
+			<majutus>700.00</majutus>
+			<ekskursioon>60.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Enjoy afternoon tea at Ritz</erilineSoovitus>
+		<hinnang>4.9</hinnang>
+	</reis>
+
+	<reis id="6">
+		<sihtkoht>Amsterdam</sihtkoht>
+		<transport>
+			<lennureis>KLM</lennureis>
+			<rong>NS International</rong>
+			<lennujaam>Schiphol</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">NH Collection</hotell>
+		</majutus>
+		<ekskursioon>Canal Cruise</ekskursioon>
+		<hinnad>
+			<transport>220.00</transport>
+			<majutus>450.00</majutus>
+			<ekskursioon>45.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try Dutch cheese market</erilineSoovitus>
+		<hinnang>4.4</hinnang>
+	</reis>
+
+	<reis id="7">
+		<sihtkoht>Prague</sihtkoht>
+		<transport>
+			<lennureis>Czech Airlines</lennureis>
+			<rong>ČD Railjet</rong>
+			<lennujaam>Vaclav Havel Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Grandior Hotel</hotell>
+		</majutus>
+		<ekskursioon>Charles Bridge Tour</ekskursioon>
+		<hinnad>
+			<transport>210.00</transport>
+			<majutus>400.00</majutus>
+			<ekskursioon>35.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Taste Czech beer in Old Town</erilineSoovitus>
+		<hinnang>4.2</hinnang>
+	</reis>
+
+	<reis id="8">
+		<sihtkoht>Vienna</sihtkoht>
+		<transport>
+			<lennureis>Austrian Airlines</lennureis>
+			<rong>ÖBB Railjet</rong>
+			<lennujaam>Vienna International</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Imperial</hotell>
+		</majutus>
+		<ekskursioon>Schonbrunn Palace</ekskursioon>
+		<hinnad>
+			<transport>240.00</transport>
+			<majutus>520.00</majutus>
+			<ekskursioon>55.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Attend a classical concert</erilineSoovitus>
+		<hinnang>4.6</hinnang>
+	</reis>
+
+	<reis id="9">
+		<sihtkoht>Madrid</sihtkoht>
+		<transport>
+			<lennureis>Iberia</lennureis>
+			<rong>Renfe AVE</rong>
+			<lennujaam>Barajas</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Palace</hotell>
+		</majutus>
+		<ekskursioon>Royal Palace Tour</ekskursioon>
+		<hinnad>
+			<transport>260.00</transport>
+			<majutus>580.00</majutus>
+			<ekskursioon>65.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Taste churros with hot chocolate</erilineSoovitus>
+		<hinnang>4.5</hinnang>
+	</reis>
+
+	<reis id="10">
+		<sihtkoht>Lisbon</sihtkoht>
+		<transport>
+			<lennureis>TAP Air Portugal</lennureis>
+			<rong>CP Comboios</rong>
+			<lennujaam>Lisbon Portela</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Altis Grand Hotel</hotell>
+		</majutus>
+		<ekskursioon>Belem Tower Visit</ekskursioon>
+		<hinnad>
+			<transport>230.00</transport>
+			<majutus>420.00</majutus>
+			<ekskursioon>30.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try pastel de nata</erilineSoovitus>
+		<hinnang>4.3</hinnang>
+	</reis>
+
+	<reis id="11">
+		<sihtkoht>Athens</sihtkoht>
+		<transport>
+			<lennureis>Aegean Airlines</lennureis>
+			<rong>TrainOSE</rong>
+			<lennujaam>Athens International</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Electra Palace</hotell>
+		</majutus>
+		<ekskursioon>Acropolis Tour</ekskursioon>
+		<hinnad>
+			<transport>250.00</transport>
+			<majutus>460.00</majutus>
+			<ekskursioon>50.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Enjoy Greek tavernas</erilineSoovitus>
+		<hinnang>4.6</hinnang>
+	</reis>
+
+	<reis id="12">
+		<sihtkoht>Budapest</sihtkoht>
+		<transport>
+			<lennureis>WizzAir</lennureis>
+			<rong>MAV Railways</rong>
+			<lennujaam>Budapest Ferenc Liszt</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Corinthia Hotel</hotell>
+		</majutus>
+		<ekskursioon>Danube Cruise</ekskursioon>
+		<hinnad>
+			<transport>200.00</transport>
+			<majutus>470.00</majutus>
+			<ekskursioon>40.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Relax in thermal baths</erilineSoovitus>
+		<hinnang>4.4</hinnang>
+	</reis>
+
+	<reis id="13">
+		<sihtkoht>Copenhagen</sihtkoht>
+		<transport>
+			<lennureis>SAS</lennureis>
+			<rong>DSB Railways</rong>
+			<lennujaam>Copenhagen Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel D’Angleterre</hotell>
+		</majutus>
+		<ekskursioon>Tivoli Gardens</ekskursioon>
+		<hinnad>
+			<transport>270.00</transport>
+			<majutus>650.00</majutus>
+			<ekskursioon>55.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Taste Danish pastries</erilineSoovitus>
+		<hinnang>4.7</hinnang>
+	</reis>
+
+	<reis id="14">
+		<sihtkoht>Stockholm</sihtkoht>
+		<transport>
+			<lennureis>Norwegian Air</lennureis>
+			<rong>SJ Trains</rong>
+			<lennujaam>Arlanda</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Grand Hotel</hotell>
+		</majutus>
+		<ekskursioon>Vasa Museum</ekskursioon>
+		<hinnad>
+			<transport>280.00</transport>
+			<majutus>670.00</majutus>
+			<ekskursioon>45.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Visit Stockholm Archipelago</erilineSoovitus>
+		<hinnang>4.8</hinnang>
+	</reis>
+
+	<reis id="15">
+		<sihtkoht>Oslo</sihtkoht>
+		<transport>
+			<lennureis>Norwegian Air Shuttle</lennureis>
+			<rong>Vy Trains</rong>
+			<lennujaam>Oslo Gardermoen</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Continental</hotell>
+		</majutus>
+		<ekskursioon>Vigeland Park</ekskursioon>
+		<hinnad>
+			<transport>260.00</transport>
+			<majutus>610.00</majutus>
+			<ekskursioon>40.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try fresh salmon dishes</erilineSoovitus>
+		<hinnang>4.5</hinnang>
+	</reis>
+
+	<reis id="16">
+		<sihtkoht>Helsinki</sihtkoht>
+		<transport>
+			<lennureis>Finnair</lennureis>
+			<rong>VR Trains</rong>
+			<lennujaam>Helsinki Vantaa</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Kämp</hotell>
+		</majutus>
+		<ekskursioon>Suomenlinna Fortress</ekskursioon>
+		<hinnad>
+			<transport>250.00</transport>
+			<majutus>600.00</majutus>
+			<ekskursioon>35.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Relax in a Finnish sauna</erilineSoovitus>
+		<hinnang>4.6</hinnang>
+	</reis>
+
+	<reis id="17">
+		<sihtkoht>Tallinn</sihtkoht>
+		<transport>
+			<lennureis>AirBaltic</lennureis>
+			<rong>Elron</rong>
+			<lennujaam>Tallinn Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Swissotel</hotell>
+		</majutus>
+		<ekskursioon>Old Town Tour</ekskursioon>
+		<hinnad>
+			<transport>180.00</transport>
+			<majutus>350.00</majutus>
+			<ekskursioon>25.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try Estonian black bread</erilineSoovitus>
+		<hinnang>4.2</hinnang>
+	</reis>
+
+	<reis id="18">
+		<sihtkoht>Riga</sihtkoht>
+		<transport>
+			<lennureis>AirBaltic</lennureis>
+			<rong>LDz Railways</rong>
+			<lennujaam>Riga International</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Radisson Blu</hotell>
+		</majutus>
+		<ekskursioon>Art Nouveau Tour</ekskursioon>
+		<hinnad>
+			<transport>190.00</transport>
+			<majutus>360.00</majutus>
+			<ekskursioon>30.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Visit Riga Central Market</erilineSoovitus>
+		<hinnang>4.3</hinnang>
+	</reis>
+
+	<reis id="19">
+		<sihtkoht>Vilnius</sihtkoht>
+		<transport>
+			<lennureis>AirBaltic</lennureis>
+			<rong>Lietuvos Geležinkeliai</rong>
+			<lennujaam>Vilnius Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Radisson Blu Lietuva</hotell>
+		</majutus>
+		<ekskursioon>Old Town Walk</ekskursioon>
+		<hinnad>
+			<transport>185.00</transport>
+			<majutus>355.00</majutus>
+			<ekskursioon>28.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try cepelinai traditional dish</erilineSoovitus>
+		<hinnang>4.1</hinnang>
+	</reis>
+
+	<reis id="20">
+		<sihtkoht>Zagreb</sihtkoht>
+		<transport>
+			<lennureis>Croatia Airlines</lennureis>
+			<rong>HZ Croatian Railways</rong>
+			<lennujaam>Zagreb Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Esplanade Zagreb Hotel</hotell>
+		</majutus>
+		<ekskursioon>Upper Town Tour</ekskursioon>
+		<hinnad>
+			<transport>220.00</transport>
+			<majutus>450.00</majutus>
+			<ekskursioon>40.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Sample local wines</erilineSoovitus>
+		<hinnang>4.3</hinnang>
+	</reis>
+
+	<reis id="21">
+		<sihtkoht>Belgrade</sihtkoht>
+		<transport>
+			<lennureis>Air Serbia</lennureis>
+			<rong>Serbian Railways</rong>
+			<lennujaam>Belgrade Nikola Tesla</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Hotel Moskva</hotell>
+		</majutus>
+		<ekskursioon>Kalemegdan Fortress</ekskursioon>
+		<hinnad>
+			<transport>210.00</transport>
+			<majutus>420.00</majutus>
+			<ekskursioon>35.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Enjoy Serbian grilled meat</erilineSoovitus>
+		<hinnang>4.2</hinnang>
+	</reis>
+
+	<reis id="22">
+		<sihtkoht>Warsaw</sihtkoht>
+		<transport>
+			<lennureis>LOT Polish Airlines</lennureis>
+			<rong>PKP Intercity</rong>
+			<lennujaam>Warsaw Chopin</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Raffles Europejski</hotell>
+		</majutus>
+		<ekskursioon>Old Town Market</ekskursioon>
+		<hinnad>
+			<transport>240.00</transport>
+			<majutus>560.00</majutus>
+			<ekskursioon>45.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Visit Łazienki Park</erilineSoovitus>
+		<hinnang>4.4</hinnang>
+	</reis>
+
+	<reis id="23">
+		<sihtkoht>Brussels</sihtkoht>
+		<transport>
+			<lennureis>Brussels Airlines</lennureis>
+			<rong>Thalys</rong>
+			<lennujaam>Brussels Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Amigo</hotell>
+		</majutus>
+		<ekskursioon>Grand Place Tour</ekskursioon>
+		<hinnad>
+			<transport>260.00</transport>
+			<majutus>600.00</majutus>
+			<ekskursioon>50.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try Belgian waffles</erilineSoovitus>
+		<hinnang>4.6</hinnang>
+	</reis>
+
+	<reis id="24">
+		<sihtkoht>Munich</sihtkoht>
+		<transport>
+			<lennureis>Lufthansa</lennureis>
+			<rong>DB ICE</rong>
+			<lennujaam>Munich Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Hotel Bayerischer Hof</hotell>
+		</majutus>
+		<ekskursioon>Neuschwanstein Castle</ekskursioon>
+		<hinnad>
+			<transport>250.00</transport>
+			<majutus>550.00</majutus>
+			<ekskursioon>60.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Enjoy Bavarian beer gardens</erilineSoovitus>
+		<hinnang>4.5</hinnang>
+	</reis>
+
+	<reis id="25">
+		<sihtkoht>Venice</sihtkoht>
+		<transport>
+			<lennureis>Alitalia</lennureis>
+			<rong>Trenitalia</rong>
+			<lennujaam>Venice Marco Polo</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Danieli</hotell>
+		</majutus>
+		<ekskursioon>Gondola Ride</ekskursioon>
+		<hinnad>
+			<transport>280.00</transport>
+			<majutus>600.00</majutus>
+			<ekskursioon>55.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try Venetian seafood</erilineSoovitus>
+		<hinnang>4.7</hinnang>
+	</reis>
+
+	<reis id="26">
+		<sihtkoht>Florence</sihtkoht>
+		<transport>
+			<lennureis>Alitalia</lennureis>
+			<rong>Trenitalia</rong>
+			<lennujaam>Florence Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Hotel Savoy</hotell>
+		</majutus>
+		<ekskursioon>Uffizi Gallery</ekskursioon>
+		<hinnad>
+			<transport>260.00</transport>
+			<majutus>550.00</majutus>
+			<ekskursioon>50.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Visit local markets</erilineSoovitus>
+		<hinnang>4.6</hinnang>
+	</reis>
+
+	<reis id="27">
+		<sihtkoht>Edinburgh</sihtkoht>
+		<transport>
+			<lennureis>British Airways</lennureis>
+			<rong>ScotRail</rong>
+			<lennujaam>Edinburgh Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">The Balmoral</hotell>
+		</majutus>
+		<ekskursioon>Edinburgh Castle Tour</ekskursioon>
+		<hinnad>
+			<transport>250.00</transport>
+			<majutus>500.00</majutus>
+			<ekskursioon>45.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try Scotch whisky tasting</erilineSoovitus>
+		<hinnang>4.5</hinnang>
+	</reis>
+
+	<reis id="28">
+		<sihtkoht>Dublin</sihtkoht>
+		<transport>
+			<lennureis>Ryanair</lennureis>
+			<rong>Irish Rail</rong>
+			<lennujaam>Dublin Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">The Westbury</hotell>
+		</majutus>
+		<ekskursioon>Guinness Storehouse</ekskursioon>
+		<hinnad>
+			<transport>220.00</transport>
+			<majutus>460.00</majutus>
+			<ekskursioon>35.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Enjoy Irish pubs</erilineSoovitus>
+		<hinnang>4.4</hinnang>
+	</reis>
+
+	<reis id="29">
+		<sihtkoht>Nice</sihtkoht>
+		<transport>
+			<lennureis>Air France</lennureis>
+			<rong>SNCF</rong>
+			<lennujaam>Côte d'Azur Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="5">Hotel Negresco</hotell>
+		</majutus>
+		<ekskursioon>Promenade des Anglais</ekskursioon>
+		<hinnad>
+			<transport>270.00</transport>
+			<majutus>620.00</majutus>
+			<ekskursioon>40.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Visit local markets</erilineSoovitus>
+		<hinnang>4.6</hinnang>
+	</reis>
+
+	<reis id="30">
+		<sihtkoht>Bratislava</sihtkoht>
+		<transport>
+			<lennureis>Slovak Airlines</lennureis>
+			<rong>ZSSK</rong>
+			<lennujaam>Bratislava Airport</lennujaam>
+		</transport>
+		<majutus>
+			<hotell stars="4">Grand Hotel River Park</hotell>
+		</majutus>
+		<ekskursioon>Bratislava Castle</ekskursioon>
+		<hinnad>
+			<transport>200.00</transport>
+			<majutus>400.00</majutus>
+			<ekskursioon>30.00</ekskursioon>
+		</hinnad>
+		<erilineSoovitus>Try local Slovak cuisine</erilineSoovitus>
+		<hinnang>4.3</hinnang>
+	</reis>
+</reisid>
