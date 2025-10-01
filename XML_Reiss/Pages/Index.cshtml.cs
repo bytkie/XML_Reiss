@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Xml.Xsl;
 
-namespace XML_Reisid.Pages
+namespace XML_Reiss.Pages
 {
     public class IndexModel : PageModel
     {
